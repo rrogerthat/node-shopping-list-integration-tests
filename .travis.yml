@@ -3,7 +3,7 @@ node_js: node
 deploy: 
   provider: heroku
   api_key: 
-    secure: fq5C+sWm1zovmtXpXRzvUsUfGcAjYTVgAoS/Lw3Yy8fg3ZANh6eXkX6Pcda9yJUPtHuHTlpZ1LbYYkTW9SvJkknIaFRVwSan2EC6fEARXCNfqusqyGEaIr1Gnzqvyh10IVcEc9n/Yy+paDgAVwvuOTurIsCI4OuKexaPrAevHsaSSw2LJBteuwMcnExA2cle8VjqXVyZdRfCrseGKvoZuqmekZII3tqUA1Rr17Xmm7R58pKhJApD49wDt8mZhSC928swqNIY5SdiZSBmyykHlQNZpUigMY7ZAAPuOKYUVWbYwl8lcxJkFCwN3tB7pD/bM60126ONQ6Gzc6bJa8GTsWUdsfJ9ll9R5FwyTxCqOe7kMHv7Ehm//zD80MotT8/o4lY7/zv3pflVuCt8O6LlFFBBP+xn5oc9c+R5/joUB6POqAgyYAQjYCoTfsLVVtSgfMvl5Hfh8RTME1n5SdVzkowmvgnn/LetSwz3uFRgKclR3DJvWhNMmS0bKJM8gcBIquZcPH1gBWoGWzfgsn26V3ftJNEqUvK1d6MrmvHk9sFcQbVraI5JsMLku4C6nXTH5KPI1a5RJ1gyyIG1AQUxZpGBfTo5Kz0BIBqwrJUnlH64JRch9otK+nh6jEf4t+EGkHDnZIJCsk1fAMsXX/YZ9Di05Ux1QvTAXrY/TlvGbN0=
+    secure: 4809c7a2-9074-4b5a-9e01-0e15f0d7525c
   app: afternoon-mesa-51343
   on:
     repo: rrogerthat/node-shopping-list-integration-tests
